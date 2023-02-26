@@ -1,0 +1,78 @@
+﻿ProductName;CategoryName;CompanyName;Reorder;CountOrder;TotalGrossIncome;PrevMonthDemand;PrevMonthOrder;KetOrder
+Chai;Beverages;Exotic Liquids;10;38;14192,15;144;8;Very Good
+Chang;Beverages;Exotic Liquids;25;44;18434,8;263;9;Very Good
+Aniseed Syrup;Condiments;Exotic Liquids;25;12;3076;29;2;Good
+Chef Anton's Cajun Seasoning;Condiments;New Orleans Cajun Delights;0;20;9384,85;26;2;Good
+Chef Anton's Gumbo Mix;Condiments;New Orleans Cajun Delights;0;10;5776,75;100;2;Bad
+Grandma's Boysenberry Spread;Condiments;Grandma Kelly's Homestead;25;12;7336,68;21;2;Good
+Uncle Bob's Organic Dried Pears;Produce;Grandma Kelly's Homestead;10;29;22449,45;140;6;Very Good
+Northwoods Cranberry Sauce;Condiments;Grandma Kelly's Homestead;0;13;13731,8;32;2;Good
+Mishi Kobe Niku;Meat/Poultry;Tokyo Traders;0;5;8810,1;0;0;Bad
+Ikura;Seafood;Tokyo Traders;0;33;22096,7;25;2;Very Good
+Queso Cabrales;Dairy Products;Cooperativa de Quesos 'Las Cabras';30;38;13850,9;20;2;Very Good
+Queso Manchego La Pastora;Dairy Products;Cooperativa de Quesos 'Las Cabras';0;14;12850,65;46;4;Good
+Konbu;Seafood;Mayumi's;5;40;5188,3;207;7;Very Good
+Tofu;Produce;Mayumi's;0;22;8600,42;21;2;Good
+Genen Shouyu;Condiments;Mayumi's;5;6;1811,65;0;0;Bad
+Pavlova;Confections;Pavlova, Ltd.;10;43;18650,74;49;4;Very Good
+Alice Mutton;Meat/Poultry;Pavlova, Ltd.;0;37;35404,35;89;2;Very Good
+Carnarvon Tigers;Seafood;Pavlova, Ltd.;0;27;31940,15;53;3;Very Good
+Teatime Chocolate Biscuits;Confections;Specialty Biscuits, Ltd.;5;37;6125,95;137;4;Very Good
+Sir Rodney's Marmalade;Confections;Specialty Biscuits, Ltd.;0;16;23621,56;16;2;Good
+Sir Rodney's Scones;Confections;Specialty Biscuits, Ltd.;5;39;9577,35;103;4;Very Good
+Gustaf's Knäckebröd;Grains/Cereals;PB Knäckebröd AB;25;14;7227,1;25;1;Good
+Tunnbröd;Grains/Cereals;PB Knäckebröd AB;25;20;4813,7;12;2;Good
+Guaraná Fantástica;Beverages;Refrescos Americanas LTDA;0;51;4718,9;160;9;Excelent
+NuNuCa Nuß-Nougat-Creme;Confections;Heli Süßwaren GmbH & Co. KG;30;18;4025,85;15;1;Good
+Gumbär Gummibärchen;Confections;Heli Süßwaren GmbH & Co. KG;0;32;21475,55;81;3;Very Good
+Schoggi Schokolade;Confections;Heli Süßwaren GmbH & Co. KG;30;9;15227,75;0;0;Bad
+Rössle Sauerkraut;Produce;Plutzer Lebensmittelgroßmärkte AG;0;33;26838,25;98;3;Very Good
+Thüringer Rostbratwurst;Meat/Poultry;Plutzer Lebensmittelgroßmärkte AG;0;32;87675,3;122;4;Very Good
+Nord-Ost Matjeshering;Seafood;Nord-Ost-Fisch Handelsgesellschaft mbH;15;32;14717,09;19;2;Very Good
+Gorgonzola Telino;Dairy Products;Formaggi Fortini s.r.l.;20;51;16065,35;35;2;Excelent
+Mascarpone Fabioli;Dairy Products;Formaggi Fortini s.r.l.;25;15;9145,95;86;4;Good
+Geitost;Dairy Products;Norske Meierier;20;32;1685,7;55;3;Very Good
+Sasquatch Ale;Beverages;Bigfoot Breweries;15;19;6653,35;215;4;Good
+Steeleye Stout;Beverages;Bigfoot Breweries;15;36;14481,9;117;4;Very Good
+Inlagd Sill;Seafood;Svensk Sjöföda AB;20;31;14481,4;69;3;Very Good
+Gravad lax;Seafood;Svensk Sjöföda AB;25;6;3033,4;0;0;Bad
+Côte de Blaye;Beverages;Aux joyeux ecclésiastiques;15;24;149945,25;25;1;Good
+Chartreuse verte;Beverages;Aux joyeux ecclésiastiques;5;30;13098,45;22;2;Very Good
+Boston Crab Meat;Seafood;New England Seafood Cannery;30;41;18980,9;55;3;Very Good
+Jack's New England Clam Chowder;Seafood;New England Seafood Cannery;10;47;9051,95;177;8;Excelent
+Singaporean Hokkien Fried Mee;Grains/Cereals;Leka Trading;0;30;9277,3;112;5;Very Good
+Ipoh Coffee;Beverages;Leka Trading;25;28;25045,05;96;3;Very Good
+Gula Malacca;Condiments;Leka Trading;15;24;10488,5;27;2;Good
+Rogede sild;Seafood;Lyngbysild;15;14;4696,95;20;1;Good
+Spegesild;Seafood;Lyngbysild;0;27;6120,54;81;5;Very Good
+Zaanse koeken;Confections;Zaanse Snoepfabriek;0;21;4314,3;0;0;Good
+Chocolade;Confections;Zaanse Snoepfabriek;25;6;1526,7;0;0;Bad
+Maxilaku;Confections;Karkki Oy;15;21;9486,3;62;2;Good
+Valkoinen suklaa;Confections;Karkki Oy;30;10;3505,25;22;1;Bad
+Manjimup Dried Apples;Produce;G'day, Mate;10;39;44683,9;133;6;Very Good
+Filo Mix;Grains/Cereals;G'day, Mate;25;29;3361,15;34;4;Very Good
+Perth Pasties;Meat/Poultry;G'day, Mate;0;30;21477,95;105;3;Very Good
+Tourtière;Meat/Poultry;Ma Maison;10;36;5065,95;30;2;Very Good
+Pâté chinois;Meat/Poultry;Ma Maison;20;33;19413,95;187;7;Very Good
+Gnocchi di nonna Alice;Grains/Cereals;Pasta Buttini s.r.l.;30;50;45051,65;25;2;Excelent
+Ravioli Angelo;Grains/Cereals;Pasta Buttini s.r.l.;20;23;7799,55;48;2;Good
+Escargots de Bourgogne;Seafood;Escargots Nouveaux;20;18;6600,65;40;1;Good
+Raclette Courdavault;Dairy Products;Gai pâturage;0;54;76194,25;322;7;Excelent
+Camembert Pierrot;Dairy Products;Gai pâturage;0;51;50175,98;176;9;Excelent
+Sirop d'érable;Condiments;Forêts d'érables;25;24;16362,9;97;6;Good
+Tarte au sucre;Confections;Forêts d'érables;0;48;49774,05;33;2;Excelent
+Vegie-spread;Condiments;Pavlova, Ltd.;5;17;17669,15;42;2;Good
+Wimmers gute Semmelknödel;Grains/Cereals;Plutzer Lebensmittelgroßmärkte AG;30;30;22975,39;177;4;Very Good
+Louisiana Fiery Hot Pepper Sauce;Condiments;New Orleans Cajun Delights;0;32;14569,55;21;1;Very Good
+Louisiana Hot Spiced Okra;Condiments;New Orleans Cajun Delights;20;8;3509;1;1;Bad
+Laughing Lumberjack Lager;Beverages;Bigfoot Breweries;10;10;2549,95;20;1;Bad
+Scottish Longbreads;Confections;Specialty Biscuits, Ltd.;15;34;9305,85;99;3;Very Good
+Gudbrandsdalsost;Dairy Products;Norske Meierier;15;31;24240,75;66;2;Very Good
+Outback Lager;Beverages;Pavlova, Ltd.;30;39;11415,8;69;5;Very Good
+Flotemysost;Dairy Products;Norske Meierier;0;42;20812,05;197;6;Very Good
+Mozzarella di Giovanni;Dairy Products;Formaggi Fortini s.r.l.;0;38;25711,15;37;2;Very Good
+Röd Kaviar;Seafood;Svensk Sjöföda AB;5;14;4185,28;2;1;Good
+Longlife Tofu;Produce;Tokyo Traders;5;13;2550,25;20;1;Good
+Rhönbräu Klosterbier;Beverages;Plutzer Lebensmittelgroßmärkte AG;25;46;8588,65;34;2;Excelent
+Lakkalikööri;Beverages;Karkki Oy;20;39;16733;148;4;Very Good
+Original Frankfurter grüne Soße;Condiments;Plutzer Lebensmittelgroßmärkte AG;15;38;9643,6;109;6;Very Good
